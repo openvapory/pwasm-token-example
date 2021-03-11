@@ -1,3 +1,5 @@
+## twasm-token-contract-bin
+
 [![Build Status](https://travis-ci.org/paritytech/pwasm-token-example.svg?branch=master)](https://travis-ci.org/paritytech/pwasm-token-example)
 ## Build prerequisites
 Install rust with `wasm32-unknown-unknown` target:
