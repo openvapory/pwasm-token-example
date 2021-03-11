@@ -1,5 +1,5 @@
 [package]
-name = "pwasm-token-contract-bin"
+name = "twasm-token-contract-bin"
 version = "0.1.0"
 authors = ["Alexey Frolov <frol.rage@gmail.com>"]
 
